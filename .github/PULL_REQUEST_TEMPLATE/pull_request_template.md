@@ -23,11 +23,10 @@ Please specify if the resource is free or paid.
 - [ ] The resource is not a duplicate of any existing resource in the repository.
 - [ ] I have provided a brief description and a URL for the suggested resource.
 - [ ] I have provided a category for the suggested resource.
+- [ ] This is **not** a pirated resource.
 
 ### Additional Notes
 
 Please add any additional notes or comments you might have about the suggested resource.
-
-
 
 From us: thank you for your contribution, we appreciate it 😊
