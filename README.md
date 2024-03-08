@@ -19,5 +19,5 @@ Various resources for everything you'd want to learn about software development!
 - [It's not what you read, it's what you ignore - Scott Hanselman](https://youtube.com/watch?v=IWPgUn8tL8s): A talk about workflow-optimization as a full-time dev.
 
 ## Free Lecture-Series
-- [MIT 6.006: Intro to Algorithms (Fall 2011)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PL-K_ib5mxHXkBD_3_79TPS8xvcw49pVcc): Covers most of the DSA ideas in CS 300, 400, 240, and 577, with way less nonsense, and a lot of great examples and insights.
+- [MIT 6.006: Intro to Algorithms (Fall 2011)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PL-K_ib5mxHXkBD_3_79TPS8xvcw49pVcc): Covers most of the DSA ideas in CS 300, 400, 240, and 577, with way less nonsense and a lot of great examples and insights.
 - [MIT 6.001: Structure and Interpretation of Computer Programs (SICP) (1986)](https://www.youtube.com/playlist?list=PLE18841CABEA24090): The legendary lecture videos accompanying the [classic (now free) textbook](https://web.mit.edu/6.001/6.037/sicp.pdf) of the same name.
