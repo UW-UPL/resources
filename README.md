@@ -6,6 +6,11 @@ Various resources for everything you'd want to learn about software development!
 - [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html): Unsure what to build? Here's a list of projects that will challenge you and help you grow as a developer.
 - [Flappy Bird Implemented in Typescript types](https://zackoverflow.dev/writing/flappy-bird-in-type-level-typescript/): Seriously.
 - [Every Vim Binding Lucas Knows](https://scharenbroch.dev/blog/vim-bindings/): A list of well-known and less-known Vim bindings.
+- [Development is Inherently Wicked](https://blog.codinghorror.com/development-is-inherently-wicked/): An article talking about software development metholodogy through the lens of "Wicked Problems".
+- [Becoming a Better Programmer by Tightening Feedback Loops](https://siboehm.com/articles/22/tight-feedback-loops): An article detailing an approach to becoming a better developer.
+- [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM): A very in-depth article about optimizing a matrix multiplication operatin in CUDA.
+- [Reflections on a decade of coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/): An interesting series of posts by a guy reflecting on his learnings after a decade of coding.
+- [JavaScript xv6](https://nullpo-head.github.io/emcc-gaia-simu/xv6.html): An implementation of xv6 (the operating system we hack on in CS 537) in JavaScript, which is crazy. It even has a game of 2048 built in.
 
 ## Talks
 - [Systems Distrubted](https://www.youtube.com/playlist?list=PL9eL-xg48OM09LwyjF_cXwoJHHngXMPxJ): A conference by TigerBeetle about various programming and database/systems design techniques and considerations, by a variety of very smart and eloquent people doing cutting-edge work.
