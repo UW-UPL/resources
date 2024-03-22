@@ -9,8 +9,11 @@ Various resources for everything you'd want to learn about software development!
 - [Development is Inherently Wicked](https://blog.codinghorror.com/development-is-inherently-wicked/): An article talking about software development metholodogy through the lens of "Wicked Problems".
 - [Becoming a Better Programmer by Tightening Feedback Loops](https://siboehm.com/articles/22/tight-feedback-loops): An article detailing an approach to becoming a better developer.
 - [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM): A very in-depth article about optimizing a matrix multiplication operatin in CUDA.
-- [Reflections on a decade of coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/): An interesting series of posts by a guy reflecting on his learnings after a decade of coding.
+- [Reflections on a decade of coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/): An interesting series of posts by a guy reflecting on his learnings after a decade of programming professionally.
 - [JavaScript xv6](https://nullpo-head.github.io/emcc-gaia-simu/xv6.html): An implementation of xv6 (the operating system we hack on in CS 537) in JavaScript, which is crazy. It even has a game of 2048 built in.
+- [How Lisp became God's own programming language](https://twobithistory.org/2018/10/14/lisp.html): A blog post describing the origins and history of Lisp and it's lasting impact on the field of software development.
+- [A Unified Theory of Garbage Collection](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/unified-theory-gc/): A summary of a research paper proposing fundamental laws about garbage collection based on observations of different types of garbage collectors and trends of object allocation and object lifetimes in different programs. Understanding garbage collection can have interesting performance implications.
+- [Modern B-Tree Techniques](https://w6113.github.io/files/papers/btreesurvey-graefe.pdf): A long document that talks about B-trees and performance techniques that people use for implementing them in modern database systems.
 
 ## Talks
 - [Systems Distrubted](https://www.youtube.com/playlist?list=PL9eL-xg48OM09LwyjF_cXwoJHHngXMPxJ): A conference by TigerBeetle about various programming and database/systems design techniques and considerations, by a variety of very smart and eloquent people doing cutting-edge work.
@@ -29,3 +32,6 @@ Various resources for everything you'd want to learn about software development!
 ## Free Lecture-Series
 - [MIT 6.006: Intro to Algorithms (Fall 2011)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PL-K_ib5mxHXkBD_3_79TPS8xvcw49pVcc): Covers most of the DSA ideas in CS 300, 400, 240, and 577, with way less nonsense and a lot of great examples and insights.
 - [MIT 6.001: Structure and Interpretation of Computer Programs (SICP) (1986)](https://www.youtube.com/playlist?list=PLE18841CABEA24090): The legendary lecture videos accompanying the [classic (now free) textbook](https://web.mit.edu/6.001/6.037/sicp.pdf) of the same name.
+
+## Extra
+- [Windows Drama](https://news.ycombinator.com/item?id=30019307): Some rumors about internal engineer vs designer beef within the Windows teams. Those who are frustrated by the directions Windows is going might be interested in how organizational drama can affect the development of a product, even one as big and widely used as Windows.
