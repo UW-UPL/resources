@@ -24,6 +24,8 @@ Various resources for everything you'd want to learn about software development!
 - [Vanilla Todo](https://github.com/morris/vanilla-todo): A github repository in which the developer details his approach to creating a Todo app (basic exercise for people learning frontend development and React) using vanilla JavaScript, HTML, and CSS. If you are interested in the engineering underlying frontend development, this will make you drool.
 - [JavaScript xv6](https://nullpo-head.github.io/emcc-gaia-simu/xv6.html): An implementation of xv6 (the operating system we hack on in CS 537) in JavaScript, which is crazy. It even has a game of 2048 built in.
 - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/): A blog post on someone's approach to writing a simple C compiler in 500 lines of Python. The author holds your hand and walks you through the process of compiler development.
+- [Writing a NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/chapter_1.html): An in-depth series on writing an NES emulator in Rust. Not for the faint of heart.
+- [NES Emulator in Lisp](https://github.com/samanthadoran/potential-disco): A github repository of someone's NES emulator written in Common Lisp.
 
 ### Useful blogs and posts
 
@@ -53,7 +55,9 @@ Various resources for everything you'd want to learn about software development!
 ## Talks
 - [Systems Distrubted](https://www.youtube.com/playlist?list=PL9eL-xg48OM09LwyjF_cXwoJHHngXMPxJ): A conference by TigerBeetle about various programming and database/systems design techniques and considerations, by a variety of very smart and eloquent people doing cutting-edge work.
 - [Containers: Reflections after the first decade](https://youtu.be/xXWaECk9XqM): An entertaining talk about some of the origins and motivations for developing containers. Good advice for any software developer.
-- [Why Static Typing Came Back](https://youtu.be/Tml94je2edk): A talk about the history of Static vs Dynamic languages, motivations for using both types, and a glimpse into the frontier of language design.
+- [Richard Feldman - Why Static Typing Came Back](https://youtu.be/Tml94je2edk): A talk about the history of Static vs Dynamic languages, motivations for using both types, and a glimpse into the frontier of language design.
+- [Richard Feldman - Outperforming Imperative with Pure Functional Languages](https://youtu.be/QyJZzq0v7Z4): A talk about the development of a programming language (Roc) and how the creators managed to optimize it.
+- [Richard Feldman - Why isn't functional programming the norm?](https://youtu.be/QyJZzq0v7Z4): A talk abut the history of programming languages and how we ended up where we are.
 - [David Beazley - Python India Keynote](https://youtube.com/watch?v=VUT386_GKI8): David Beazley writes an entire WebAssembly interpreter in a live-demo.
 - [David Beazley - Python Concurrency from the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4): A talk on Python concurrency models.
 - [Ben Deane - Applicative: The Forgotten C++ Functional Pattern](https://www.youtube.com/watch?v=KDn28TZdKb4): A C++ (!) talk motivating the practical use of functional patterns.
@@ -63,13 +67,17 @@ Various resources for everything you'd want to learn about software development!
 - [Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure](https://www.youtube.com/watch?v=wASCH_gPnDw): A discussion about the novel ideas used by data structures Clojure.
 - [Ólafur Waage - Learning Rust the wrong way](https://youtube.com/watch?v=DL9LANLg5EA): A non-technical talk about various ideas surrounding learning.
 - [Scott Hanselman - It's not what you read, it's what you ignore](https://youtube.com/watch?v=IWPgUn8tL8s): A talk about workflow-optimization as a full-time dev.
-- [Why are distributed systems so hard?](https://www.youtube.com/watch?v=Q4p-2WIS0nQ): A good overview of the challenges faced with distributed programming.
+- [Denise Yu - Why are distributed systems so hard?](https://www.youtube.com/watch?v=Q4p-2WIS0nQ): A good overview of the challenges faced with distributed programming.
+- [Mike Acton - Data-oriented design and C++ (CppCon 2014)](https://www.youtube.com/watch?v=rX0ItVEVjHc): A talk
+- [Anthony Shaw - Why is Python so slow? (PyCon 2015)](https://www.youtube.com/watch?v=I4nkgJdVZFA)
+- [Kate Gregory - 10 core guidelines you need to start using right now (CppCon 2017)](https://www.youtube.com/watch?v=XkDEzfpdcSg): A talk detailing which features of C++ not to use, mostly for production-grade software but also provides a sense of relief when you realize that even the C++ experts can't agree on which subset of C++ features to use.
 
 ## Free Lecture-Series
-- [MIT 6.006: Intro to Algorithms (Fall 2011)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PL-K_ib5mxHXkBD_3_79TPS8xvcw49pVcc): Covers most of the DSA ideas in CS 300, 400, 240, and 577, with way less nonsense and a lot of great examples and insights.
-- [MIT 6.001: Structure and Interpretation of Computer Programs (SICP) (1986)](https://www.youtube.com/playlist?list=PLE18841CABEA24090): The legendary lecture videos accompanying the [classic (now free) textbook](https://web.mit.edu/6.001/6.037/sicp.pdf) of the same name.
-- [MIT 6.5940: TinyML and Efficient Deep Learning Computing](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB): This course covers strategies and theory for getting efficient model inference, optimizations for transformers, and efficient model training. The official course website is [here](https://hanlab.mit.edu/courses/2023-fall-65940).
+- [MIT 6.006 - Intro to Algorithms (Fall 2011)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PL-K_ib5mxHXkBD_3_79TPS8xvcw49pVcc): Covers most of the DSA ideas in CS 300, 400, 240, and 577, with way less nonsense and a lot of great examples and insights.
+- [MIT 6.001 - Structure and Interpretation of Computer Programs (SICP) (1986)](https://www.youtube.com/playlist?list=PLE18841CABEA24090): The legendary lecture videos accompanying the [classic (now free) textbook](https://web.mit.edu/6.001/6.037/sicp.pdf) of the same name.
+- [MIT 6.5940 - TinyML and Efficient Deep Learning Computing](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB): This course covers strategies and theory for getting efficient model inference, optimizations for transformers, and efficient model training. The official course website is [here](https://hanlab.mit.edu/courses/2023-fall-65940).
 - [David Beazley - Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery/tree/main): A github repository containing code exercises and slides from an Advanced Python Mastery course. If you are interested at learning about Python at an advanced level, feel free to skim the exercises in the repository and try completing some of them if they look interesting enough.
+- [CMU 15-721 - Advanced Database Systems (Spring 2023)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn): CMU course about Advanced Database Systems. It covers advanced systems topics applied to databases and modern database implementation details about Google BigQuery, Databricks, DuckDB, Snowflake, Meta Velox, and AWS Redshift.
 
 ## Extra
 - [Windows Drama](https://news.ycombinator.com/item?id=30019307): Some rumors about internal engineer vs designer beef within the Windows teams. Those who are frustrated by the directions Windows is going might be interested in how organizational drama can affect the development of a product, even one as big and widely used as Windows.
