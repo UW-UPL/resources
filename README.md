@@ -25,7 +25,7 @@ Various resources for everything you'd want to learn about software development!
 - [JavaScript xv6](https://nullpo-head.github.io/emcc-gaia-simu/xv6.html): An implementation of xv6 (the operating system we hack on in CS 537) in JavaScript, which is crazy. It even has a game of 2048 built in.
 - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/): A blog post on someone's approach to writing a simple C compiler in 500 lines of Python. The author holds your hand and walks you through the process of compiler development.
 
-### General Blogs and posts
+### Useful blogs and posts
 
 - [Every Vim Binding Lucas Knows](https://scharenbroch.dev/blog/vim-bindings/): A list of well-known and less-known Vim bindings.
 - [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM): A very in-depth article about optimizing a matrix multiplication operatin in CUDA.
@@ -42,24 +42,27 @@ Various resources for everything you'd want to learn about software development!
 - [Just paying figma 15 dollars a month because nothing else fucking works](https://fasterthanli.me/articles/just-paying-figma-15-dollars): A blog post that talks about the dilemmas of Free and Open Source Software (FOSS), and what makes Figma a world-class product.
 - [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms): A walkthrough about how a developer managed to target and solve a huge performance bottleneck in a text editor.
 - [Files are fraught with peril](https://danluu.com/deconstruct-files/): An article that goes into depth about how writing to files works at the system call level, and how the simple act of writing to a file can go wrong.
+- [How I wrote my own "proper" programming language](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/): An interesting series of blog posts going into excruciating detail about someone's journey of creating their own programming language and compiler for an Oxford senior thesis.
 
 ### Papers
 - [A Unified Theory of Garbage Collection](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/unified-theory-gc/): A summary of a research paper proposing fundamental laws about garbage collection based on observations of different types of garbage collectors and trends of object allocation and object lifetimes in different programs. Understanding garbage collection can have interesting performance implications.
 - [Modern B-Tree Techniques](https://w6113.github.io/files/papers/btreesurvey-graefe.pdf): A long document that talks about B-trees and performance techniques that people use for implementing them in modern database systems.
 - [The NumPy array: a structure for efficient numerical computation](https://arxiv.org/pdf/1102.1523.pdf): A paper detailing how the NumPy array works under the hood for efficient computation.
+- [Million.js: A Fast Compiler-Augmented Virtual DOM for the Web](https://arxiv.org/pdf/2202.08409.pdf): A paper detailing a framework/Virtual DOM that speeds up React. Interesting note: the author wrote this in high school.
 
 ## Talks
 - [Systems Distrubted](https://www.youtube.com/playlist?list=PL9eL-xg48OM09LwyjF_cXwoJHHngXMPxJ): A conference by TigerBeetle about various programming and database/systems design techniques and considerations, by a variety of very smart and eloquent people doing cutting-edge work.
 - [Containers: Reflections after the first decade](https://youtu.be/xXWaECk9XqM): An entertaining talk about some of the origins and motivations for developing containers. Good advice for any software developer.
 - [Why Static Typing Came Back](https://youtu.be/Tml94je2edk): A talk about the history of Static vs Dynamic languages, motivations for using both types, and a glimpse into the frontier of language design.
-- [Python India Keynote - David Beazley](https://youtube.com/watch?v=VUT386_GKI8): David Beazley writes an entire WebAssembly interpreter in a live-demo.
-- [Applicative: The Forgotten C++ Functional Pattern - Ben Deane](https://www.youtube.com/watch?v=KDn28TZdKb4): A C++ (!) talk motivating the practical use of functional patterns.
-- [Simple Made Easy - Rich Hickey](https://youtube.com/watch?v=LKtk3HCgTa8): The famous talk in which Rich Hickey defines the terms "simple" and "easy".
-- [Growing a Language - Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0): A programming-languages talk with an unusual constraint.
-- [Four Solutions to a Trivial Problem - Guy Steele](https://www.youtube.com/watch?v=ftcIcn8AmSY): Kind of like a leetcode-solution video, but with more commentary on parallelism.
+- [David Beazley - Python India Keynote](https://youtube.com/watch?v=VUT386_GKI8): David Beazley writes an entire WebAssembly interpreter in a live-demo.
+- [David Beazley - Python Concurrency from the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4): A talk on Python concurrency models.
+- [Ben Deane - Applicative: The Forgotten C++ Functional Pattern](https://www.youtube.com/watch?v=KDn28TZdKb4): A C++ (!) talk motivating the practical use of functional patterns.
+- [Rich Hickey - Simple Made Easy](https://youtube.com/watch?v=LKtk3HCgTa8): The famous talk in which Rich Hickey defines the terms "simple" and "easy".
+- [Guy Steele - Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0): A programming-languages talk with an unusual constraint.
+- [Guy Steele - Four Solutions to a Trivial Problem](https://www.youtube.com/watch?v=ftcIcn8AmSY): Kind of like a leetcode-solution video, but with more commentary on parallelism.
 - [Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure](https://www.youtube.com/watch?v=wASCH_gPnDw): A discussion about the novel ideas used by data structures Clojure.
-- [Learning Rust the wrong way - Ólafur Waage](https://youtube.com/watch?v=DL9LANLg5EA): A non-technical talk about various ideas surrounding learning.
-- [It's not what you read, it's what you ignore - Scott Hanselman](https://youtube.com/watch?v=IWPgUn8tL8s): A talk about workflow-optimization as a full-time dev.
+- [Ólafur Waage - Learning Rust the wrong way](https://youtube.com/watch?v=DL9LANLg5EA): A non-technical talk about various ideas surrounding learning.
+- [Scott Hanselman - It's not what you read, it's what you ignore](https://youtube.com/watch?v=IWPgUn8tL8s): A talk about workflow-optimization as a full-time dev.
 - [Why are distributed systems so hard?](https://www.youtube.com/watch?v=Q4p-2WIS0nQ): A good overview of the challenges faced with distributed programming.
 
 ## Free Lecture-Series
