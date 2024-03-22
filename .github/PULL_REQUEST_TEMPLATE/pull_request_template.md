@@ -24,7 +24,7 @@ Please specify if the resource is free or paid.
 - [ ] I have provided a brief description and a URL for the suggested resource.
 - [ ] I have provided a category for the suggested resource.
 - [ ] This is **not** a pirated resource.
-- [ ] I have assigned @davidteather to this pull request.
+- [ ] I have assigned @rudyb2001 to this pull request.
 
 ### Additional Notes
 
