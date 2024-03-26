@@ -71,6 +71,12 @@ Various resources for everything you'd want to learn about software development!
 - [Mike Acton - Data-oriented design and C++ (CppCon 2014)](https://www.youtube.com/watch?v=rX0ItVEVjHc): A talk
 - [Anthony Shaw - Why is Python so slow? (PyCon 2015)](https://www.youtube.com/watch?v=I4nkgJdVZFA)
 - [Kate Gregory - 10 core guidelines you need to start using right now (CppCon 2017)](https://www.youtube.com/watch?v=XkDEzfpdcSg): A talk detailing which features of C++ not to use, mostly for production-grade software but also provides a sense of relief when you realize that even the C++ experts can't agree on which subset of C++ features to use.
+- [Alexis King - How to make a Haskell program 5x faster with 16 lines of code](https://youtube.com/watch?v=yRVjR9XcuPU) - An enlightening journey into the internals of the Glasgow Haskell Compiler.
+- ["Uncle" Bob Martin - SOLID Principles of Object Oriented & Agile Design](https://youtube.com/watch?v=QHnLmvDxGTY) - An analysis of OOP patterns in use.
+- [Scott Wlaschin - Functional programming design patterns](https://youtube.com/watch?v=E8I19uA-wGY) - An introduction and motivation to functional programming.
+- [Scott Wlaschin - Four Languages from Forty Years Ago](https://youtube.com/watch?v=0fpDlAEQio4) - A history of programming languages, focusing on a few languages with the "galaxy-brain seal of approval" (languages that, when you learn them, will make your head explode).
+- [Dylan Beattie - The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U) - An all-around epic talk about a variety of fun programming topics.
+- [Tomas Patricek - Build your own Excel 365 in an hour with F#](https://www.youtube.com/watch?v=Dfll-_tY6kQ) - A live demo showing the expressive power of functional programming.
 
 ## Free Lecture-Series
 - [MIT 6.006 - Intro to Algorithms (Fall 2011)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PL-K_ib5mxHXkBD_3_79TPS8xvcw49pVcc): Covers most of the DSA ideas in CS 300, 400, 240, and 577, with way less nonsense and a lot of great examples and insights.
