@@ -80,8 +80,8 @@ Various resources for everything you'd want to learn about software development!
 - [Scott Wlaschin - Four Languages from Forty Years Ago](https://youtube.com/watch?v=0fpDlAEQio4) - A history of programming languages, focusing on a few languages with the "galaxy-brain seal of approval" (languages that, when you learn them, will make your head explode).
 - [Dylan Beattie - The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U) - An all-around epic talk about a variety of fun programming topics.
 - [Tomas Patricek - Build your own Excel 365 in an hour with F#](https://www.youtube.com/watch?v=Dfll-_tY6kQ) - A live demo showing the expressive power of functional programming.
-- [CppCon 2017: Carl Cook “When a Microsecond Is an Eternity: High Performance Trading Systems in C++”](https://www.youtube.com/watch?v=NH1Tta7purM): Famous cppcon talk on HFT
-- [Trading at light speed: designing low latency systems in C++ - David Gross - Meeting C++ 2022](https://www.youtube.com/watch?v=8uAW5FQtcvE): More recent talk on c++ systems optimization
+- [Carl Cook - When a Microsecond Is an Eternity: High Performance Trading Systems in C++ (CppCon 2017)](https://www.youtube.com/watch?v=NH1Tta7purM): Famous cppcon talk on HFT
+- [David Gross - Trading at light speed: designing low latency systems in C++ (Meeting C++ 2022)](https://www.youtube.com/watch?v=8uAW5FQtcvE): More recent talk on c++ systems optimization
 
 ## Free Lecture-Series
 - [MIT 6.006 - Intro to Algorithms (Fall 2011)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PL-K_ib5mxHXkBD_3_79TPS8xvcw49pVcc): Covers most of the DSA ideas in CS 300, 400, 240, and 577, with way less nonsense and a lot of great examples and insights.
