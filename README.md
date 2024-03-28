@@ -1,6 +1,9 @@
 # Resources
 Various resources for everything you'd want to learn about software development!
 
+## SWE Prep
+- [UPL SWE Prep Repo](https://github.com/UW-UPL/swe-job-primer)
+
 ## Class resources
 - [Operating Systems: Three Easy Pieces (OSTEP)](https://pages.cs.wisc.edu/~remzi/OSTEP/): The OS textbook, freely available online, written by Remzi and Andrea Arpaci-Dusseau, two professors at the University of Wisconsin-Madison. This website also includes the homework assignments that correspond with each chapter of the book, as well as other books they recommend.
 
