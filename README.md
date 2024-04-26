@@ -90,6 +90,18 @@ Various resources for everything you'd want to learn about software development!
 - [David Beazley - Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery/tree/main): A github repository containing code exercises and slides from an Advanced Python Mastery course. If you are interested at learning about Python at an advanced level, feel free to skim the exercises in the repository and try completing some of them if they look interesting enough.
 - [CMU 15-721 - Advanced Database Systems (Spring 2023)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn): CMU course about Advanced Database Systems. It covers advanced systems topics applied to databases and modern database implementation details about Google BigQuery, Databricks, DuckDB, Snowflake, Meta Velox, and AWS Redshift.
 
+## Free Books
+- [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/) - Way more than you'll ever need to know about Bash
+- [Pro Git](https://git-scm.com/book/en/v2) - Way more than you'll ever need to know about Git
+- [SICP](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
+- [Beautiful Racket](https://beautifulracket.com/)
+- [Real World Haskell](https://book.realworldhaskell.org/read) - A book about Haskell
+- [Learn You a Haskell for Great Good!](https://learnyouahaskell.com/chapters) - Another book about Haskell
+- [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) -
+- [The Rust Programming Language](https://doc.rust-lang.org/book/)
+- [Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/toc.html) - An intro to programming in Coq
+
 ## Extra
 - [Windows Drama](https://news.ycombinator.com/item?id=30018763): Some rumors about internal engineer vs designer beef within the Windows teams. Those who are frustrated by the directions Windows is going might be interested in how organizational drama can affect the development of a product, even one as big and widely used as Windows. [There's more.](https://news.ycombinator.com/item?id=29954266)
 - [First version of Redis written in TCL](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8): A copy of the code used in the first version of Redis. If you ignore the fact that nobody actually knows TCL anymore, this is an interesting read, especially for trying to guess how the code works in a language you've never seen before. Plus some commentary from the original author and others in the comments.
