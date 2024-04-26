@@ -10,7 +10,6 @@ Various resources for everything you'd want to learn about software development!
 ## Articles
 
 ### Programming advice
-
 - [Why learning to code is so damn hard](https://web.archive.org/web/20150207060837/http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard): One of the best blog posts that details the process of learning programming.
 - [The Best of edw519](http://static.v25media.com/edw519_mod.html#chapter_255): A collection of comments by a very experienced software developer, covering a wide range of topics.
 - [Development is Inherently Wicked](https://blog.codinghorror.com/development-is-inherently-wicked/): An article talking about software development metholodogy through the lens of "Wicked Problems".
@@ -20,7 +19,6 @@ Various resources for everything you'd want to learn about software development!
 - [Becoming a Better Programmer by Tightening Feedback Loops](https://siboehm.com/articles/22/tight-feedback-loops): An article detailing an approach to becoming a better developer.
 
 ### Projects
-
 - [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html): Unsure what to build? Here's a list of projects that will challenge you and help you grow as a developer.
 - [Coding Challenges](https://codingchallenges.fyi/challenges/intro): A series of backend coding challenges that test your knowledge as a developer, all of which involve recreating commonly used software tools.
 - [Flappy Bird Implemented in Typescript types](https://zackoverflow.dev/writing/flappy-bird-in-type-level-typescript/): Seriously.
@@ -31,7 +29,6 @@ Various resources for everything you'd want to learn about software development!
 - [NES Emulator in Lisp](https://github.com/samanthadoran/potential-disco): A github repository of someone's NES emulator written in Common Lisp.
 
 ### Useful blogs and posts
-
 - [Every Vim Binding Lucas Knows](https://scharenbroch.dev/blog/vim-bindings/): A list of well-known and less-known Vim bindings.
 - [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM): A very in-depth article about optimizing a matrix multiplication operatin in CUDA.
 - [How Lisp became God's own programming language](https://twobithistory.org/2018/10/14/lisp.html): A blog post describing the origins and history of Lisp and it's lasting impact on the field of software development.
