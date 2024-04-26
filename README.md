@@ -102,6 +102,14 @@ Various resources for everything you'd want to learn about software development!
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
 - [Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/toc.html) - An intro to programming in Coq
 
+## Podcasts
+- [Lex Fridman](https://lexfridman.com/podcast/)
+- [CppCast](https://cppcast.com/)
+- [Algorithms + Data Structures = Programs](https://adspthepodcast.com/)
+- [The Array Cast](https://www.arraycast.com/)
+- [Lambda Cast](https://www.listennotes.com/podcasts/lambdacast-lambdacast-c8bseLqG1Eg/)
+- [Functional Geekery](https://www.functionalgeekery.com/)
+
 ## Extra
 - [Windows Drama](https://news.ycombinator.com/item?id=30018763): Some rumors about internal engineer vs designer beef within the Windows teams. Those who are frustrated by the directions Windows is going might be interested in how organizational drama can affect the development of a product, even one as big and widely used as Windows. [There's more.](https://news.ycombinator.com/item?id=29954266)
 - [First version of Redis written in TCL](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8): A copy of the code used in the first version of Redis. If you ignore the fact that nobody actually knows TCL anymore, this is an interesting read, especially for trying to guess how the code works in a language you've never seen before. Plus some commentary from the original author and others in the comments.
