@@ -88,24 +88,25 @@ Various resources for everything you'd want to learn about software development!
 - [CMU 15-721 - Advanced Database Systems (Spring 2023)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn): CMU course about Advanced Database Systems. It covers advanced systems topics applied to databases and modern database implementation details about Google BigQuery, Databricks, DuckDB, Snowflake, Meta Velox, and AWS Redshift.
 
 ## Free Books
-- [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-- [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/) - Way more than you'll ever need to know about Bash
-- [Pro Git](https://git-scm.com/book/en/v2) - Way more than you'll ever need to know about Git
-- [SICP](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
-- [Beautiful Racket](https://beautifulracket.com/)
-- [Real World Haskell](https://book.realworldhaskell.org/read) - A book about Haskell
-- [Learn You a Haskell for Great Good!](https://learnyouahaskell.com/chapters) - Another book about Haskell
-- [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) -
-- [The Rust Programming Language](https://doc.rust-lang.org/book/)
-- [Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/toc.html) - An intro to programming in Coq
+- [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) - The OS textbook, written by Remzi and Andrea Arpaci-Dusseau, two professors at the University of Wisconsin-Madison.
+- [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/) - Way more than you'll ever need to know about Bash.
+- [Pro Git](https://git-scm.com/book/en/v2) - Way more than you'll ever need to know about Git.
+- [SICP](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html) - A classic CS text.
+- [Beautiful Racket](https://beautifulracket.com/) - A book about the Racket programming language.
+- [Real World Haskell](https://book.realworldhaskell.org/read) - A book about Haskell.
+- [Learn You a Haskell for Great Good!](https://learnyouahaskell.com/chapters) - Another book about Haskell.
+- [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) - An intro to Category Theory (the mathematical design patterns behind programs and data transformation).
+- [The Rust Programming Language](https://doc.rust-lang.org/book/) - An intro to programming in Rust.
+- [Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/toc.html) - An intro to programming in Coq.
 
 ## Podcasts
-- [Lex Fridman](https://lexfridman.com/podcast/)
-- [CppCast](https://cppcast.com/)
-- [Algorithms + Data Structures = Programs](https://adspthepodcast.com/)
-- [The Array Cast](https://www.arraycast.com/)
-- [Lambda Cast](https://www.listennotes.com/podcasts/lambdacast-lambdacast-c8bseLqG1Eg/)
-- [Functional Geekery](https://www.functionalgeekery.com/)
+- [Lex Fridman](https://lexfridman.com/podcast/) - A very popular (non-technical) podcast that sometimes involves CS and AI related topics.
+- [CppCast](https://cppcast.com/) - A podcast focusing on everything C++.
+- [Algorithms + Data Structures = Programs](https://adspthepodcast.com/) - Casual discussions between two professional C++ developers, and (occasionally) their guests.
+- [The Array Cast](https://www.arraycast.com/) - A podcast focusing on the fringe "array programming" paradigm, with a panel of experts in various array languages (APL, J, Q, K, BQN, etc.).
+- [Lambda Cast](https://www.listennotes.com/podcasts/lambdacast-lambdacast-c8bseLqG1Eg/) - A gradual introduction to functional programming, in the form of ~20 conversations between developers with various levels of FP experience
+- [Functional Geekery](https://www.functionalgeekery.com/) - Conversations between one dude and various functional programming enthusiasts and experts.
+- [Not Related](https://notrelated.xyz/) - A series of monologues by the infamous Arch-Linux fanatic [Luke Smith](https://www.youtube.com/@LukeSmithxyz) that have nothing to do with computers (they mostly focus on ancient history, society, and other theoretical academic topics) - though you can't learn much about computers from this podcast, I think it's a useful example of how it's possible to be an Arch user who talks about things that aren't Linux.
 
 ## Extra
 - [Windows Drama](https://news.ycombinator.com/item?id=30018763): Some rumors about internal engineer vs designer beef within the Windows teams. Those who are frustrated by the directions Windows is going might be interested in how organizational drama can affect the development of a product, even one as big and widely used as Windows. [There's more.](https://news.ycombinator.com/item?id=29954266)
