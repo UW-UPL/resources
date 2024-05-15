@@ -79,6 +79,9 @@ Various resources for everything you'd want to learn about software development!
 - [Tomas Patricek - Build your own Excel 365 in an hour with F#](https://www.youtube.com/watch?v=Dfll-_tY6kQ) - A live demo showing the expressive power of functional programming.
 - [Carl Cook - When a Microsecond Is an Eternity: High Performance Trading Systems in C++ (CppCon 2017)](https://www.youtube.com/watch?v=NH1Tta7purM): Famous cppcon talk on HFT
 - [David Gross - Trading at light speed: designing low latency systems in C++ (Meeting C++ 2022)](https://www.youtube.com/watch?v=8uAW5FQtcvE): More recent talk on c++ systems optimization
+- [Rich Hickey - Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc): An explanation for why it's useful to think about programming challenges while not actively solving them.
+- [Jessica Kerr - Shaving the Golden Yak](https://www.youtube.com/watch?v=10Foa_lulK4): A justification for ricing nvim before you begin coding.
+- [Raymond Hettinger - Beyond PEP 8](https://youtube.com/watch?v=wf-BqAjZb8M): A talk containing the correct pronounciation of JSON, among other useful tidbits.
 
 ## Free Lecture-Series
 - [MIT 6.006 - Intro to Algorithms (Fall 2011)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PL-K_ib5mxHXkBD_3_79TPS8xvcw49pVcc): Covers most of the DSA ideas in CS 300, 400, 240, and 577, with way less nonsense and a lot of great examples and insights.
