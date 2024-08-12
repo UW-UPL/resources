@@ -1,4 +1,3 @@
-# Resources
 Various resources for everything you'd want to learn about software development!
 
 ## SWE Prep
@@ -116,3 +115,5 @@ Various resources for everything you'd want to learn about software development!
 - [Windows Drama](https://news.ycombinator.com/item?id=30018763): Some rumors about internal engineer vs designer beef within the Windows teams. Those who are frustrated by the directions Windows is going might be interested in how organizational drama can affect the development of a product, even one as big and widely used as Windows. [There's more.](https://news.ycombinator.com/item?id=29954266)
 - [First version of Redis written in TCL](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8): A copy of the code used in the first version of Redis. If you ignore the fact that nobody actually knows TCL anymore, this is an interesting read, especially for trying to guess how the code works in a language you've never seen before. Plus some commentary from the original author and others in the comments.
 - [Secret React Internals](https://github.com/facebook/react/blob/main/packages/shared/ReactSharedInternals.js): Secret react internals. Originally brought up in [this](https://stackoverflow.com/questions/68930011/react-accessing-internal-operation-queue-of-react) stackoverflow post and again in [this](https://github.com/reactjs/react.dev/issues/3896) github issue.
+
+Parse the web swiftly for the lastest articles with [The Brutalist Report](https://brutalist.report/?limit=5). It's a great way to stay up-to-date with the latest articles and blog posts in the tech industry.
