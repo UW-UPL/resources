@@ -14,7 +14,7 @@ Various resources for everything you'd want to learn about software development!
 - [Development is Inherently Wicked](https://blog.codinghorror.com/development-is-inherently-wicked/): An article talking about software development metholodogy through the lens of "Wicked Problems".
 - [Reflections on a decade of coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/): An interesting series of posts by a guy reflecting on his learnings after a decade of programming professionally.
 - [Why I find it hard to learn with AI](https://andresc.substack.com/p/why-i-find-it-hard-to-learn-with): A blog post about how products like ChatGPT and GitHub Copilot can disrupt the natural processes of learning (especially important to consider for early-career developers).
-- [TigerStyle](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md): A phenomenal document outlining the design principles and goals of TigerBeetle, a high-performance, distributed, in-memory database.
+- [TigerStyle](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md): A phenomenal document outlining the design principles and goals of TigerBeetle, a high-performance transactions database.
 - [Becoming a Better Programmer by Tightening Feedback Loops](https://siboehm.com/articles/22/tight-feedback-loops): An article detailing an approach to becoming a better developer.
 
 ### Projects
