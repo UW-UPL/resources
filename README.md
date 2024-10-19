@@ -11,7 +11,7 @@ Various resources for everything you'd want to learn about software development!
 ### Programming advice
 - [Why learning to code is so damn hard](https://web.archive.org/web/20150207060837/http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard): One of the best blog posts that details the process of learning programming.
 - [The Best of edw519](http://static.v25media.com/edw519_mod.html#chapter_255): A collection of comments by a very experienced software developer, covering a wide range of topics.
-- [Development is Inherently Wicked](https://blog.codinghorror.com/development-is-inherently-wicked/): An article talking about software development metholodogy through the lens of "Wicked Problems".
+- [Development is Inherently Wicked](https://blog.codinghorror.com/development-is-inherently-wicked/): An article talking about software development methodology through the lens of "Wicked Problems".
 - [Reflections on a decade of coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/): An interesting series of posts by a guy reflecting on his learnings after a decade of programming professionally.
 - [Why I find it hard to learn with AI](https://andresc.substack.com/p/why-i-find-it-hard-to-learn-with): A blog post about how products like ChatGPT and GitHub Copilot can disrupt the natural processes of learning (especially important to consider for early-career developers).
 - [TigerStyle](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md): A phenomenal document outlining the design principles and goals of [TigerBeetle](https://tigerbeetle.com), a high-performance transactions database.
@@ -29,21 +29,23 @@ Various resources for everything you'd want to learn about software development!
 
 ### Useful blogs and posts
 - [Every Vim Binding Lucas Knows](https://scharenbroch.dev/blog/vim-bindings/): A list of well-known and less-known Vim bindings.
-- [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM): A very in-depth article about optimizing a matrix multiplication operatin in CUDA.
+- [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog](https://siboehm.com/articles/22/CUDA-MMM): A very in-depth article about optimizing a matrix multiplication operation in CUDA.
 - [How Lisp became God's own programming language](https://twobithistory.org/2018/10/14/lisp.html): A blog post describing the origins and history of Lisp and it's lasting impact on the field of software development.
 - [Venture Capital and the Internet's Impact](https://stratechery.com/): A 2015 blog post that talks about how AWS disrupted traditional venture capital in tech and the emergence of angel investors, Silicon Valley engineers and veterans of the startup scene. I (Rudy) believe this article is slightly outdated, considering the waves of new engineers and the 2022 tech market contractions, but it still provides an interesting look at underlying investment forces with startups.
 - [Computational Photography](https://vas3k.com/blog/computational_photography/): A very detailed blog post about the evolution of computational photography and the algorithms behind modern camera system innovations.
 - [Socket Programming overview in Python](https://docs.python.org/3/howto/sockets.html): An overview of sockets programming with Python code snippets. Sockets are a fundamental abstraction for programs sending and receiving data across the internet using the IP protocol.
-- [Why Type Hinting Sucks!](https://old.reddit.com/r/Python/comments/10zdidm/why_type_hinting_sucks/): An entertaining reddit post describing why Python type hinting sucks from the perspective of evolving project requirements and code maintanence over time.
+- [Why Type Hinting Sucks!](https://old.reddit.com/r/Python/comments/10zdidm/why_type_hinting_sucks/): An entertaining reddit post describing why Python type hinting sucks from the perspective of evolving project requirements and code maintenance over time.
 - [Learning about distributed systems: where to start?](https://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.html): A blog post about how to get more in-depth experience with distributed systems. Personally I (Rudy) think this is bad advice for early career developers, and instead I'd recommend building basic full-stack applications that have a frontend, backend, database, authentication, etc for getting more hands-on experience with distributed systems. I personally tried avoiding JavaScript as much as possible, but it is a futile effort.
 - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/): A blog post that provides commentary on various file formats and proposes a new file format standard that takes the best of all worlds (according to the author of course).
-- [Rust won't save us, but it's ideas will](https://glitchbyte.io/posts/rust-wont-save-us/): A blog post that organizes some of the commentary about the Rust programming language from a security perspective.
+- [Rust won't save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/): A blog post that organizes some of the commentary about the Rust programming language from a security perspective.
 - [A friendly introduction to machine learning compilers and optimizers](https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html): A blog post that provides an overview of machine learning compilers and optimizers. Overall a very good article, but the author included a meme about writing models in JavaScript so they can run natively on the browser, which I (Rudy) am ideologically opposed to.
 - [The engineering behind Figma's vector networks](https://alexharri.com/blog/vector-networks): A blog post detailing the graphics math behind vector networks.
 - [Just paying figma 15 dollars a month because nothing else fucking works](https://fasterthanli.me/articles/just-paying-figma-15-dollars): A blog post that talks about the dilemmas of Free and Open Source Software (FOSS), and what makes Figma a world-class product.
 - [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms): A walkthrough about how a developer managed to target and solve a huge performance bottleneck in a text editor.
 - [Files are fraught with peril](https://danluu.com/deconstruct-files/): An article that goes into depth about how writing to files works at the system call level, and how the simple act of writing to a file can go wrong.
 - [How I wrote my own "proper" programming language](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/): An interesting series of blog posts going into excruciating detail about someone's journey of creating their own programming language and compiler for an Oxford senior thesis.
+- [The one ring problem: abstraction and our quest for power](https://www.tedinski.com/2018/01/30/the-one-ring-problem-abstraction-and-power.html): A sobering revelation about abstractions being a trade-off for meaningfulness.
+- [Abstraction, intuition, and the "monad tutorial fallacy"](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/): The origin of the legendary "monads are burritos" line.
 
 ### Papers
 - [A Unified Theory of Garbage Collection](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/unified-theory-gc/): A summary of a research paper proposing fundamental laws about garbage collection based on observations of different types of garbage collectors and trends of object allocation and object lifetimes in different programs. Understanding garbage collection can have interesting performance implications.
@@ -80,7 +82,8 @@ Various resources for everything you'd want to learn about software development!
 - [David Gross - Trading at light speed: designing low latency systems in C++ (Meeting C++ 2022)](https://www.youtube.com/watch?v=8uAW5FQtcvE): More recent talk on c++ systems optimization
 - [Rich Hickey - Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc): An explanation for why it's useful to think about programming challenges while not actively solving them.
 - [Jessica Kerr - Shaving the Golden Yak](https://www.youtube.com/watch?v=10Foa_lulK4): A justification for ricing nvim before you begin coding.
-- [Raymond Hettinger - Beyond PEP 8](https://youtube.com/watch?v=wf-BqAjZb8M): A talk containing the correct pronounciation of JSON, among other useful tidbits.
+- [Raymond Hettinger - Beyond PEP 8](https://youtube.com/watch?v=wf-BqAjZb8M): A talk containing the correct pronunciation of JSON, among other useful tidbits.
+- [Ben Deane - Easy to Use, Hard to Misuse: Declarative Style in C++](https://youtube.com/watch?v=I52uPJSoAT4): A compelling argument for the practicality of "functional" style.
 
 ## Free Lecture-Series
 - [MIT 6.006 - Intro to Algorithms (Fall 2011)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PL-K_ib5mxHXkBD_3_79TPS8xvcw49pVcc): Covers most of the DSA ideas in CS 300, 400, 240, and 577, with way less nonsense and a lot of great examples and insights.
@@ -100,14 +103,16 @@ Various resources for everything you'd want to learn about software development!
 - [Learn You a Haskell for Great Good!](https://learnyouahaskell.com/chapters) - Another book about Haskell.
 - [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) - An intro to Category Theory (the mathematical design patterns behind programs and data transformation).
 - [The Rust Programming Language](https://doc.rust-lang.org/book/) - An intro to programming in Rust.
-- [Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/toc.html) - An intro to programming in Coq.
+- [Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/toc.html) - An intro to programming in Coq (a "Proof Assistant").
+- [Learn Prolog Now!](https://lpn.swi-prolog.org/lpnpage.php?pageid=online) - A fast-and-friendly introduction to Prolog (a "Logic Programming" language).
+- [Learn APL](https://xpqz.github.io/learnapl/intro.html) - A gateway into the rabbit-hole of array languages.
 
 ## Podcasts
 - [Lex Fridman](https://lexfridman.com/podcast/) - A very popular (non-technical) podcast that sometimes involves CS and AI related topics.
 - [CppCast](https://cppcast.com/) - A podcast focusing on everything C++.
 - [Algorithms + Data Structures = Programs](https://adspthepodcast.com/) - Casual discussions between two professional C++ developers, and (occasionally) their guests.
 - [The Array Cast](https://www.arraycast.com/) - A podcast focusing on the fringe "array programming" paradigm, with a panel of experts in various array languages (APL, J, Q, K, BQN, etc.).
-- [Lambda Cast](https://www.listennotes.com/podcasts/lambdacast-lambdacast-c8bseLqG1Eg/) - A gradual introduction to functional programming, in the form of ~20 conversations between developers with various levels of FP experience
+- [Lambda Cast](https://www.listennotes.com/podcasts/lambdacast-lambdacast-c8bseLqG1Eg/) - A gradual introduction to functional programming, in the form of ~20 conversations between developers with various levels of FP experience.
 - [Functional Geekery](https://www.functionalgeekery.com/) - Conversations between one dude and various functional programming enthusiasts and experts.
 - [Not Related](https://notrelated.xyz/) - A series of monologues by the infamous Arch-Linux fanatic [Luke Smith](https://www.youtube.com/@LukeSmithxyz) that have nothing to do with computers (they mostly focus on ancient history, society, and other theoretical academic topics) - though you can't learn much about computers from this podcast, I think it's a useful example of how it's possible to be an Arch user who talks about things that aren't Linux.
 
@@ -116,4 +121,4 @@ Various resources for everything you'd want to learn about software development!
 - [First version of Redis written in TCL](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8): A copy of the code used in the first version of Redis. If you ignore the fact that nobody actually knows TCL anymore, this is an interesting read, especially for trying to guess how the code works in a language you've never seen before. Plus some commentary from the original author and others in the comments.
 - [Secret React Internals](https://github.com/facebook/react/blob/main/packages/shared/ReactSharedInternals.js): Secret react internals. Originally brought up in [this](https://stackoverflow.com/questions/68930011/react-accessing-internal-operation-queue-of-react) stackoverflow post and again in [this](https://github.com/reactjs/react.dev/issues/3896) github issue.
 
-Parse the web swiftly for the lastest articles with [The Brutalist Report](https://brutalist.report/?limit=5). It's a great way to stay up-to-date with the latest articles and blog posts in the tech industry.
+Parse the web swiftly for the latest articles with [The Brutalist Report](https://brutalist.report/?limit=5). It's a great way to stay up-to-date with the latest articles and blog posts in the tech industry.
