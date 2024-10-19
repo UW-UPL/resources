@@ -44,6 +44,8 @@ Various resources for everything you'd want to learn about software development!
 - [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms): A walkthrough about how a developer managed to target and solve a huge performance bottleneck in a text editor.
 - [Files are fraught with peril](https://danluu.com/deconstruct-files/): An article that goes into depth about how writing to files works at the system call level, and how the simple act of writing to a file can go wrong.
 - [How I wrote my own "proper" programming language](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/): An interesting series of blog posts going into excruciating detail about someone's journey of creating their own programming language and compiler for an Oxford senior thesis.
+- [The one ring problem: abstraction and our quest for power](https://www.tedinski.com/2018/01/30/the-one-ring-problem-abstraction-and-power.html): A sobering revelation about abstractions being a trade-off for meaningfulness.
+- [Abstraction, intuition, and the "monad tutorial fallacy"](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/): The origin of the legendary "monads are burritos" line.
 
 ### Papers
 - [A Unified Theory of Garbage Collection](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/unified-theory-gc/): A summary of a research paper proposing fundamental laws about garbage collection based on observations of different types of garbage collectors and trends of object allocation and object lifetimes in different programs. Understanding garbage collection can have interesting performance implications.
@@ -81,6 +83,7 @@ Various resources for everything you'd want to learn about software development!
 - [Rich Hickey - Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc): An explanation for why it's useful to think about programming challenges while not actively solving them.
 - [Jessica Kerr - Shaving the Golden Yak](https://www.youtube.com/watch?v=10Foa_lulK4): A justification for ricing nvim before you begin coding.
 - [Raymond Hettinger - Beyond PEP 8](https://youtube.com/watch?v=wf-BqAjZb8M): A talk containing the correct pronunciation of JSON, among other useful tidbits.
+- [Ben Deane - Easy to Use, Hard to Misuse: Declarative Style in C++](https://youtube.com/watch?v=I52uPJSoAT4): A compelling argument for the practicality of "functional" style.
 
 ## Free Lecture-Series
 - [MIT 6.006 - Intro to Algorithms (Fall 2011)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PL-K_ib5mxHXkBD_3_79TPS8xvcw49pVcc): Covers most of the DSA ideas in CS 300, 400, 240, and 577, with way less nonsense and a lot of great examples and insights.
@@ -100,14 +103,16 @@ Various resources for everything you'd want to learn about software development!
 - [Learn You a Haskell for Great Good!](https://learnyouahaskell.com/chapters) - Another book about Haskell.
 - [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) - An intro to Category Theory (the mathematical design patterns behind programs and data transformation).
 - [The Rust Programming Language](https://doc.rust-lang.org/book/) - An intro to programming in Rust.
-- [Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/toc.html) - An intro to programming in Coq.
+- [Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/toc.html) - An intro to programming in Coq (a "Proof Assistant").
+- [Learn Prolog Now!](https://lpn.swi-prolog.org/lpnpage.php?pageid=online) - A fast-and-friendly introduction to Prolog (a "Logic Programming" language).
+- [Learn APL](https://xpqz.github.io/learnapl/intro.html) - A gateway into the rabbit-hole of array languages.
 
 ## Podcasts
 - [Lex Fridman](https://lexfridman.com/podcast/) - A very popular (non-technical) podcast that sometimes involves CS and AI related topics.
 - [CppCast](https://cppcast.com/) - A podcast focusing on everything C++.
 - [Algorithms + Data Structures = Programs](https://adspthepodcast.com/) - Casual discussions between two professional C++ developers, and (occasionally) their guests.
 - [The Array Cast](https://www.arraycast.com/) - A podcast focusing on the fringe "array programming" paradigm, with a panel of experts in various array languages (APL, J, Q, K, BQN, etc.).
-- [Lambda Cast](https://www.listennotes.com/podcasts/lambdacast-lambdacast-c8bseLqG1Eg/) - A gradual introduction to functional programming, in the form of ~20 conversations between developers with various levels of FP experience
+- [Lambda Cast](https://www.listennotes.com/podcasts/lambdacast-lambdacast-c8bseLqG1Eg/) - A gradual introduction to functional programming, in the form of ~20 conversations between developers with various levels of FP experience.
 - [Functional Geekery](https://www.functionalgeekery.com/) - Conversations between one dude and various functional programming enthusiasts and experts.
 - [Not Related](https://notrelated.xyz/) - A series of monologues by the infamous Arch-Linux fanatic [Luke Smith](https://www.youtube.com/@LukeSmithxyz) that have nothing to do with computers (they mostly focus on ancient history, society, and other theoretical academic topics) - though you can't learn much about computers from this podcast, I think it's a useful example of how it's possible to be an Arch user who talks about things that aren't Linux.
 
