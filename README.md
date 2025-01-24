@@ -9,6 +9,7 @@ This repository contains carefully selected resources across multiple domains, f
 - [Databases & Filesystems](./lists/databases-and-filesystems.md): { TODO Description }
 - [Functional Programming & Compilers](./lists/functional-programming): { TODO Description }
 - [Math](./lists/math.md): { TODO Description}
+- [Web Development](./lists/web-development.md): { TODO Description}
 - [Productivity](./lists/productivity.md): { TODO Description }
 - [For fun](./lists/for-fun.md): { TODO Description }
 
