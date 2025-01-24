@@ -6,6 +6,7 @@ This repository contains carefully selected resources across multiple domains, f
 ## Lists
 - [Essentials](./lists/essentials.md): { TODO Description }
 - [Unix](./lists/unix.md): { TODO Description }
+- [Software Performance](./lists/performance.md): {}
 - [Databases & Filesystems](./lists/databases-and-filesystems.md): { TODO Description }
 - [Functional Programming & Compilers](./lists/functional-programming): { TODO Description }
 - [Math](./lists/math.md): { TODO Description}
