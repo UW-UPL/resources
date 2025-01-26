@@ -7,7 +7,7 @@ This repository contains carefully selected resources across multiple domains, f
 - [Essentials](./lists/essentials.md): There are many lists filled with largely interchangable guides to language syntax, OOP-style code organization, and using existing libraries.
 These lists are sufficient to write software, but they are not sufficient to write *good* software.
 This list contains things programmers should be aware of, but are unlikely to encounter on their own.
-- [Unix](./lists/unix.md): Contains a variety of resources on the design, implementation, and historical legacy of Unix-style operating systems. 
+- [Unix](./lists/unix.md): Contains a variety of resources on the design, implementation, and historical legacy of Unix-style operating systems.
 - [Software Performance](./lists/performance.md): Gotta go fast.
 - [Databases & Filesystems](./lists/databases-and-filesystems.md): Storing and working with data.
 - [For Fun](./lists/for-fun.md): Believe it or not, there is fun to be had in computer programming.
@@ -15,8 +15,9 @@ This list contains things programmers should be aware of, but are unlikely to en
 ### WIP
 - [Programming Languages](./lists/programming-languages.md): Design, implementation, and theory of programming languages.
 
-*Run out of things to read? Discover trending articles on [Hacker News](http://hackernews.com)!*
+### Run out of things to read?
+- Discover trending articles on [Hacker News](http://hackernews.com)!
+- Read [blog posts](https://github.com/UW-UPL/harvest/blob/main/output/blog_posts.md) from UPL members over the years.
 
 ## Contributing
-
-Contributing is welcome. View [Pull Request Template](./.github/PULL_REQUEST_TEMPLATE/pull_request_template.md).
+Contributing is welcome. View the [Pull Request Template](./CONTRIBUTING.md).

@@ -58,7 +58,6 @@ Various resources for everything you'd want to learn about software development!
 - [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) - An intro to Category Theory (the mathematical design patterns behind programs and data transformation).
 
 ## Podcasts
-- [Lex Fridman](https://lexfridman.com/podcast/) - A very popular (non-technical) podcast that sometimes involves CS and AI related topics.
 - [CppCast](https://cppcast.com/) - A podcast focusing on everything C++.
 - [Algorithms + Data Structures = Programs](https://adspthepodcast.com/) - Casual discussions between two professional C++ developers, and (occasionally) their guests.
 - [The Array Cast](https://www.arraycast.com/) - A podcast focusing on the fringe "array programming" paradigm, with a panel of experts in various array languages (APL, J, Q, K, BQN, etc.).
