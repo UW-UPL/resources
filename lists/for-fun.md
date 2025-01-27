@@ -1,5 +1,6 @@
+[<<< All Lists](./../README.md)
 
-## For Fun
+# For Fun
 
 Believe it or not, there is fun to be had in computer programming.
 
