@@ -1,5 +1,7 @@
 ## Programming Languages
 
+Unsorted (for now) list of resources on the design, implementation, and theory of programming languages
+
 - [Richard Feldman - Outperforming Imperative with Pure Functional Languages](https://youtu.be/QyJZzq0v7Z4): A talk about the development of a programming language (Roc) and how the creators managed to optimize it.
 - [Richard Feldman - Why isn't functional programming the norm?](https://youtu.be/QyJZzq0v7Z4): A talk abut the history of programming languages and how we ended up where we are.
 - [Guy Steele - Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0): A programming-languages talk with an unusual constraint.
