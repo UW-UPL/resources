@@ -16,8 +16,8 @@ This list contains things programmers should be aware of, but are unlikely to en
 - [Programming Languages](./lists/programming-languages.md): Design, implementation, and theory of programming languages.
 
 ### Run out of things to read?
-- Discover trending articles on [Hacker News](http://hackernews.com)!
+- Discover trending articles on [Hacker News](https://news.ycombinator.com)!
 - Read [blog posts](https://github.com/UW-UPL/harvest/blob/main/output/blog_posts.md) from UPL members over the years.
 
 ## Contributing
-Contributing is welcome. View the [Pull Request Template](./CONTRIBUTING.md).
+Contributing is welcome. Feel free to view the [CONTRIBUTING.md](https://github.com/UW-UPL/resources/blob/main/CONTRIBUTING.md).

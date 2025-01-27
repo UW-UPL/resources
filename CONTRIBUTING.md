@@ -1,35 +1,4 @@
-## Contributing to UPL Resources
+## Contributing
 
-### Resource Name
-
-Please provide the name of the resource you're suggesting.
-
-### Resource Type
-
-Please specify the resource type (e.g., blog, tutorial, course, book, etc.).
-
-### Resource URL
-
-Please provide the URL for the resource you're suggesting.
-
-### Brief Description
-
-Please provide a brief description of the resource and why you think it should be added to the list.
-
-### Is this resource free or paid?
-
-Please specify if the resource is free or paid.
-
-### Checklist
-
-- [ ] The resource is not a duplicate of any existing resource in the repository.
-- [ ] I have provided a brief description and a URL for the suggested resource.
-- [ ] I have provided a category for the suggested resource.
-- [ ] This is **not** a pirated resource.
-- [ ] I have assigned @rudyb2001 to this pull request.
-
-### Additional Notes
-
-Please add any additional notes or comments you might have about the suggested resource.
-
-From us: thank you for your contribution, we appreciate it 😊
+Feel free to send us any high quality resource you think might be a good addition.
+File a GitHub issue or reach out to Nico S or Ben F on [the UPL discord](https://discord.gg/dmefFzm).
