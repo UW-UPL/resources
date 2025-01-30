@@ -7,8 +7,10 @@ This repository contains carefully selected resources across multiple domains, f
 - [Essentials](./lists/essentials.md): There are many lists filled with largely interchangable guides to language syntax, OOP-style code organization, and using existing libraries.
 These lists are sufficient to write software, but they are not sufficient to write *good* software.
 This list contains things programmers should be aware of, but are unlikely to encounter on their own.
+- [Stuff To Do](./lists/stuff-to-do.md): Bored? Need project ideas? Looking for something to do? Check out this list!
 - [Unix](./lists/unix.md): Contains a variety of resources on the design, implementation, and historical legacy of Unix-style operating systems.
 - [Software Performance](./lists/performance.md): Gotta go fast.
+- [Algorithms](./lists/algorithms.md): When brute force isn't enough.
 - [Databases & Filesystems](./lists/databases-and-filesystems.md): Storing and working with data.
 - [For Fun](./lists/for-fun.md): Believe it or not, there is fun to be had in computer programming.
 
