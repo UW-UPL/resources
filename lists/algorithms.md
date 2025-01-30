@@ -5,7 +5,7 @@
 This list { }
 
 - [Logicomix](https://www.logicomix.com/en/): The graphic novel Logicomix chronicles Bertrand Russell's quest to establish the foundations of mathematics while exploring the personal turmoil of great logicians.
-- [MIT Courseware Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY): A thorough video series that delves into algorithm design and analysis, covering topics like sorting, dynamic programming, graph algorithms, and NP-completeness.
+- [MIT Courseware Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY): A thorough video series that discusses algorithm design and analysis, covering topics like sorting, dynamic programming, graph algorithms, and NP-completeness.
 - [MIT Coursware Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp):A detailed lecture series focusing on advanced techniques in algorithm design and analysis, including network flows, linear programming, randomized algorithms, and approximation algorithms.
 - [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf): A detailed resource covering essential topics like dynamic programming, graph algorithms, number theory, and efficient data structures for competitive programming.
 - [Grokking Algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf): An illustrated guide for programmers and other curious people. A beginner-friendly guide that demystifies core algorithms like search, sort, recursion, and graph traversal through visual explanations and practical examples.
